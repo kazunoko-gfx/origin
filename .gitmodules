@@ -1,0 +1,9 @@
+[submodule "Externals/bgfx"]
+	path = Externals/bgfx
+	url = https://github.com/kazunoko-gfx/bgfx.git
+[submodule "Externals/gflags"]
+	path = Externals/gflags
+	url = https://github.com/kazunoko-gfx/gflags.git
+[submodule "Externals/googletest"]
+	path = Externals/googletest
+	url = https://github.com/kazunoko-gfx/googletest.git
